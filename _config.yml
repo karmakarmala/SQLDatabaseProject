@@ -1,5 +1,4 @@
 theme: pages-themes/architect@v0.2.0
 title: SQL Project
 description: Bookmark this to keep an eye on my project updates!
-plugins:
-- jekyll-remote-theme 
+
